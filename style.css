@@ -5,7 +5,7 @@
 
 }
 body{
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)), url('shivam\ kumar\ photo.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)), url('./image_for_bg.jpg');
     /* background:linear-gradient(red, orange, yellow, green, blue), url('shivam\ kumar\ photo.jpg'); */
     
     overflow: hidden;
